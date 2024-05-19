@@ -9,7 +9,7 @@ export function ImgBG() {
       quality={100}
       fill
       sizes="100vw"
-      className="-z-10 object-cover"
+      className="h-auto w-full bg-cover bg-fixed bg-center bg-no-repeat object-cover"
     />
   )
 }
