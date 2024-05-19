@@ -6,7 +6,6 @@ export function ImgBG() {
     <Image
       alt="Mountains"
       src={mountains}
-      placeholder="blur"
       quality={100}
       fill
       sizes="100vw"
